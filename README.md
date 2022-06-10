@@ -1,6 +1,11 @@
 # Full-DIR-File-Changer
 This script will go through all files in a directory and allow you to edit each file line by line and add the new files to a new directory.
 
+Files:
+* [README.md](README.md)
+* [dir-file-changer.py](dir-file-changer.py)
+
+
 ## Script output debug mode
 ```
 $ python3 filechange.py
